@@ -1,1 +1,5 @@
+Industrial safety is one of the main aspects of industry specially refining industry. To avoid any 
+ types of unwanted phenomena all refining industry follows some basic precaution and phenomena. 
+Communication is the main key factor for any industry today to monitor different parameters and take  necessary actions accordingly to avoid any types of hazards.To implement a robotic system to 
+autonomously navigate in an oil and gas refinery and it must be able to communicate with the control  room and also localize it and alert workers in hazardous leakages and other accidents. Oil and gas  refineries can be a dangerous environment for numerous reasons, including heat, gasses and humidity at  the refinary. In order to augment how human operators interact with this environment, a mobile robotic  platform is developed. This paper focuses on the use of WiFi for communicating with and localizing the  robot. All the algorithms implemented are tested in real world scenarios with the robot developed and  results are promising.
  
